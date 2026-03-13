@@ -1,1 +1,1 @@
-# Binary Sentiment Classification with Robustness Testing
+This project performs binary sentiment classification using transformer models such as DistilBERT and RoBERTa. The study focuses on evaluating model calibration using metrics such as Expected Calibration Error, Brier Score, and Maximum Calibration Error.
