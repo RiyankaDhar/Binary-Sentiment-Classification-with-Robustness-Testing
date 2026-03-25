@@ -77,11 +77,22 @@ The notebook includes the following stages:
 
 ---
 
+## Notes
+- Some parts of the notebook may take a long time to run because the models are fine-tuned on large datasets.
+- A GPU is recommended for training.
+- If you are viewing this on GitHub, open the notebook directly to see the workflow step by step.
+
+---
+
 ## File Structure
 
 ```text
-binary-sentiment-analysis/
+Binary-Sentiment-Classification-with-Robustness-Testing/
 │
 ├── binary_sentiment.ipynb
 ├── README.md
 └── requirements.txt
+
+---
+
+
