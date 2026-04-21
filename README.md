@@ -92,5 +92,64 @@ Binary-Sentiment-Classification-with-Robustness-Testing/
 ├── binary_sentiment.ipynb
 ├── README.md
 └── requirements.txt
+```
 
+---
 
+## How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/YOUR-USERNAME/Binary-Sentiment-Classification-with-Robustness-Testing.git
+cd Binary-Sentiment-Classification-with-Robustness-Testing
+```
+
+2. Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Launch Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+4. Open:
+binary_sentiment.ipynb
+
+5. Run the notebook cells in order.
+
+---
+
+## Output and Evaluation
+
+The notebook includes saved outputs such as:
+
+- model evaluation metrics
+- comparison results
+- calibration-related results
+- robustness testing outputs
+- visual plots and charts
+
+These outputs are included so the notebook can be previewed more clearly on GitHub.
+
+## Notes
+
+- Some parts of the notebook may take a long time to run because the models are fine-tuned on large datasets.
+- A GPU is recommended for training.
+- If you are viewing this on GitHub, open the notebook directly to see the workflow step by step.
+
+## Academic Context
+
+This project was developed as part of a dissertation study in sentiment analysis, model calibration, and robustness under domain shift.
+
+## Author
+
+**Riyanka**
+
+## License
+
+This project is intended for academic and learning purposes.
