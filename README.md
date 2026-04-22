@@ -1,4 +1,8 @@
-# Binary Sentiment Classification with Robustness Testing under Domain shift and Calibration
+# Binary Sentiment Classification with Robustness Testing under Domain Shift and Calibration
+
+**MSc Data Science Project**  
+**Module:**  7PAM2002-0206-2025<br>
+**Institution:** University of Hertfordshire
 
 This project performs **binary sentiment analysis** using transformer-based language models and compares their performance on sentiment classification tasks.
 
