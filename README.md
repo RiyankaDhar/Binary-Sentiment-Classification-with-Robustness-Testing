@@ -118,7 +118,7 @@ Binary-Sentiment-Classification-with-Robustness-Testing/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Binary-Sentiment-Classification-with-Robustness-Testing.git
+git clone https://github.com/RiyankaDhar/Binary-Sentiment-Classification-with-Robustness-Testing.git
 cd Binary-Sentiment-Classification-with-Robustness-Testing
 ```
 
