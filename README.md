@@ -68,6 +68,19 @@ The notebook includes the following stages:
 
 ---
 
+## How to Load the Dataset
+
+The dataset can be loaded using the Hugging Face `datasets` library.
+
+```python
+from datasets import load_dataset
+
+dataset = load_dataset("imdb")
+print(dataset)
+```
+
+---
+
 ## Technologies Used
 
 - Python
